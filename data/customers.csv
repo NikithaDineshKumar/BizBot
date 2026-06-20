@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_phone,balance_due,last_purchase_date
+1,Ravi Kumar,9876543210,0,2026-06-10
+2,Priya Sharma,9845123456,50,2026-06-11
+3,Suresh Babu,9812345678,280,2026-06-12
+4,Meena Devi,9798765432,0,2026-06-13
+5,Arjun Singh,9765432109,0,2026-06-13
+6,Lakshmi R,9743210987,110,2026-06-14
+7,Karthik M,9721098765,0,2026-06-14
+8,Divya N,9698765432,0,2026-06-15
+9,Ramesh T,9676543210,178,2026-06-15
+10,Sunita P,9654321098,0,2026-06-16

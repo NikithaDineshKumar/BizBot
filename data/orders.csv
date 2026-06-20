@@ -1,0 +1,11 @@
+order_id,customer_name,customer_phone,product_name,quantity,total_price,status,order_date
+1001,Ravi Kumar,9876543210,Amul Milk,3,84,delivered,2026-06-10
+1002,Priya Sharma,9845123456,Parle-G Biscuits,5,50,delivered,2026-06-11
+1003,Suresh Babu,9812345678,Aashirvaad Atta,1,280,pending,2026-06-12
+1004,Meena Devi,9798765432,Tata Salt,2,40,delivered,2026-06-13
+1005,Arjun Singh,9765432109,Maggi Noodles,4,56,delivered,2026-06-13
+1006,Lakshmi R,9743210987,Amul Butter,2,110,pending,2026-06-14
+1007,Karthik M,9721098765,Surf Excel,1,110,delivered,2026-06-14
+1008,Divya N,9698765432,Basmati Rice,3,360,cancelled,2026-06-15
+1009,Ramesh T,9676543210,Colgate Toothpaste,2,178,pending,2026-06-15
+1010,Sunita P,9654321098,Sunflower Oil,2,360,delivered,2026-06-16

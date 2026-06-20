@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock_quantity,unit
+1,Tata Salt,Groceries,20,150,500g pack
+2,Aashirvaad Atta,Groceries,280,60,5kg bag
+3,Amul Butter,Dairy,55,40,100g pack
+4,Amul Milk,Dairy,28,100,500ml packet
+5,Parle-G Biscuits,Snacks,10,200,100g pack
+6,Maggi Noodles,Snacks,14,120,70g pack
+7,Colgate Toothpaste,Personal Care,89,50,200g tube
+8,Dettol Soap,Personal Care,45,80,75g bar
+9,Surf Excel,Cleaning,110,45,500g pack
+10,Vim Dishwash,Cleaning,65,70,500ml bottle
+11,Sunflower Oil,Cooking Oil,180,35,1L bottle
+12,Toor Dal,Pulses,140,55,1kg pack
+13,Basmati Rice,Grains,120,90,1kg pack
+14,MDH Garam Masala,Spices,55,60,100g pack
+15,Lifebuoy Soap,Personal Care,38,95,100g bar
